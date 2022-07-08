@@ -1,0 +1,19 @@
+{
+    "name": "demon17/greetr",
+    "description": "A Simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cornel.plamadeala",
+            "email": "cornel.plamadeala@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4": {
+            "Demon17\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
