@@ -1,6 +1,6 @@
 <?php
 
-namespace Simplexi\Greetr;
+namespace Demon17\Greetr;
 
 class Greetr
 {
